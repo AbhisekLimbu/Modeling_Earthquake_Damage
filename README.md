@@ -12,7 +12,7 @@ Dallas–Fort Worth, TX · Originally from Nepal 🇳🇵
 
 ---
 
-##Interests
+##  Interests
 -Operating System Development (building my own: XOS)
 -Low-level Systems Programming with C++ & Assembly
 -Bash/Zsh scripting for terminal tools & automation
