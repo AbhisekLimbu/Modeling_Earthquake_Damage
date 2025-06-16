@@ -1,6 +1,6 @@
 # Abhisek Phago Limbu
 
-** specaling in Systems & Data  
+**Specializing in Systems & Data Engineering**
 Computer Science Student @ University of Texas at Arlington  
 Dallas–Fort Worth, TX · Originally from Nepal 🇳🇵
 
