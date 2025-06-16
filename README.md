@@ -1,6 +1,6 @@
 # Abhisek Phago Limbu
 
-**Future Systems & Data Engineer · Terminal Craftsman · C++ Hacker**  
+** specaling in Systems & Data  
 Computer Science Student @ University of Texas at Arlington  
 Dallas–Fort Worth, TX · Originally from Nepal 🇳🇵
 
