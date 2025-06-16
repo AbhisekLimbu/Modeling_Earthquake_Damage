@@ -13,13 +13,13 @@ Dallas–Fort Worth, TX · Originally from Nepal 🇳🇵
 ---
 
 ##  Interests
--Operating System Development (building my own: XOS)
--Low-level Systems Programming with C++ & Assembly
--Bash/Zsh scripting for terminal tools & automation
--Data Engineering & ETL pipelines for structured/unstructured data
--Building CLI tools for productivity, system control, and data handling
--Exploring distributed systems, data flow, and infra automation
--Working on IoT systems with sensors and automation (e.g., Mars rover simulation)
+- Operating System Development (building my own: XOS)
+- Low-level Systems Programming with C++ & Assembly
+- Bash/Zsh scripting for terminal tools & automation
+- Data Engineering & ETL pipelines for structured/unstructured data
+- Building CLI tools for productivity, system control, and data handling
+- Exploring distributed systems, data flow, and infra automation
+- Working on IoT systems with sensors and automation (e.g., Mars rover simulation)
 
 ---
 
