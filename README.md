@@ -68,7 +68,7 @@ Dallas–Fort Worth, TX · Originally from Nepal 🇳🇵
 ---
 
 ### 📫 Contact
-- **Email**: abhisek.limbu@example.com  
+- **Email**: abhiseklimbu7@gmail.com  
 - **LinkedIn**: [linkedin.com/in/abhiseklimbu](https://linkedin.com/in/abhiseklimbu)  
 
 ---
