@@ -7,7 +7,7 @@ Dallas–Fort Worth, TX · Originally from Nepal 🇳🇵
 
 ---
 
-### 🧠 Interests
+### Interests
 - Operating System Development (building my own: `XOS`)
 - Low-level Systems Programming with C++ & Assembly
 - Bash/Zsh scripting for terminal tools & automation
@@ -19,7 +19,7 @@ Dallas–Fort Worth, TX · Originally from Nepal 🇳🇵
 
 ---
 
-### 🛠️ Skills & Tools
+###  Skills & Tools
 
 #### **Languages & Scripting**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -51,7 +51,7 @@ Dallas–Fort Worth, TX · Originally from Nepal 🇳🇵
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 - `XOS` – Retro-style operating system in C++/Assembly, bootable with GRUB & QEMU  
 - `Vexplore` – Vim-style terminal file explorer written from scratch in C++  
 - `clipboard-saver` – CLI utility to save & reuse copied terminal content (macOS)  
@@ -61,13 +61,13 @@ Dallas–Fort Worth, TX · Originally from Nepal 🇳🇵
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 ![Abhisek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhisekLimbu&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekLimbu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 📫 Contact
+###  Contact
 - **Email**: abhiseklimbu7@gmail.com  
 - **LinkedIn**: [linkedin.com/in/abhiseklimbu](https://linkedin.com/in/abhiseklimbu)  
 
